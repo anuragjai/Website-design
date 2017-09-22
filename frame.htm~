@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+	<html lang="en-US">
+		<head>
+			<style>
+			#header {
+						background-color:black;
+						color:white;
+						text-align:center;
+						padding:5px;
+					}
+			#nav  {
+					line-height:30px;
+					background-color:#eeeeee;
+					color:green;
+					height:1000px;
+					width:200px;
+					float:right;
+					padding:5px;	      
+				 }
+			#section {
+				background-color:white;
+				width:1000px;
+				float:right;
+				padding:10px;	 	 
+			}
+			#footer {
+   			 		background-color:black;
+    				color:white;
+    				margin:300px;
+    				clear:both;
+   					 text-align:center;
+   					padding:5px;	 	 
+					}
+				</style>
+		
+		<body style="background-color:blue">
+			
+			<div style="background-color:green; color:black; padding:100px">
+				<h1 style="text-align:center; font-size:100%">University of Hyderabad</h1>
+				<h1 style="text-align:center; color:blue">School of Computer and Information Science</h1>
+			</div>
+			
+			<div id="nav">
+				<h1><small>News&Events</small></h>
+			</div>
+			
+			<div id="section">
+				<div id="header">
+					About Us
+				</div>
+																																												
+			</div>
+			
+				
+			<div id="footer">
+				Copyright © 2015 SCIS, University of Hyderabad
+				<br><centre>Developed By:Anurag Jayasawal</centre>
+			</div>
+		
+		</body>
+	</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+	<html lang="en-US">
+		<head>
+			<style>
+				#main{
+					width:1px;
+				}
+				#header {
+							background-color:black;
+							color:white;
+							text-align:center;
+							padding:5px;
+						}
+				#nav  {
+						line-height:30px;
+						background-color:#eeeeee;
+						color:green;
+						height:1000px;
+						width:300px;
+						float:right;
+						padding:5px;	      
+					 }
+				#section {
+					background-color:white;
+					color:black;
+					width:1000px;
+					float:left;
+					padding:10px;	 	 
+				}
+				#footer {
+	   			 		background-color:black;
+						color:white;
+						clear:both;
+	   					 text-align:center;
+	   					padding:5px;	 	 
+						}
+				iframe {
+						background-color:green;
+						width:auto;
+						height:auto;
+					} 
+				ul{
+					list-style-type: none;
+					margin: 0;
+					padding: 0;
+					overflow: hidden;
+					}
+				li{
+					float: left;
+					}
+				a:link, a:visited {
+						display: block;
+						width: 245px;
+						font-weight: bold;
+						color: #FFFFFF;
+						background-color: #98bf21;
+						text-align:center;
+						padding: 10px;
+						text-decoration: none;
+						text-transform: uppercase;
+					}
+					a:hover, a:active {
+						background-color: #7A991A;
+					}
+				h1{
+					text-align:center;
+					background-color: #000000;
+				}
+					
+				</style>
+		
+		<body style="background-color:blue;">
+			
+			<div style="background-color:green; color:black; padding:100px;background-image: url("uohd.jpg")" >
+				<h2 style="text-align:center; font-size:100%">University of Hyderabad</h2>
+				<h2 style="text-align:center; color:blue">School of Computer and Information Science</h2>
+			</div>
+			<div>
+				<ul >
+						<li style="float: left"><a href="Hcu.html">Home</a></li>					
+						<li style="float: left"><a href="Research.htm">Research</a></li>
+						<li style="float: left"><a href="People.htm">People</a></li>
+						<li style="float: left"><a href="Events.html">Events</a></li>
+						<li style="float: left"><a href="Contact Us.html">Contact Us</a></li>
+						
+						</li>
+				</ul>
+				
+				<div id="nav">
+					<h1 style="text-allign:center"> Members Areas
+					<form action="#">			
+						<input type="text" value="Username....">						
+						<input type="text" value="Password....">
+						<br>
+						<input type="submit" value="Login">
+					</form><h1>
+					<h1><small>News&Events</small></h1>
+				</div>
+				
+				<div id="section">
+					<img src="scis.jpg" alt="SCIS"  style="width:1000px;height:528px;"/>
+					<div id="header">
+						About Us
+					</div>
+					<p style="text-color=black">
+						The School of Computer and Information Sciences (SCIS) was established as an independent School
+					 on Jan 22, 2013. It was initially functioning as a component of School of Mathematics and Computer
+					and Information Sciences and later was established as a distinct department, Department of Computer
+					and Information Sciences, on 23rd March, 1993.<br><br><br>
+					SCIS offers programmes for post-graduate study and research in all major areas of Computing,Informa<wbr>tion
+					Science and Artificial Intelligence. The school is unique in offering M.Tech. Programmes in Artific<wbr>ial
+					Intelligence (since 1987), and in Information Technology with specialization in Banking Technology and 
+					Information Security (since 2001). It has approximately 450 students in the various programmes offered
+					by the school.<br><br><br>
+					SCIS has been recognized by several funding agencies. Recently, University Grants Commission (UGC) has 
+					sanctioned a Special Assistance Program (SAP), at the level of Departmental Research support (DRS) PhaseI
+					,to enhance teaching and research programmes. The Department of Science and Technology (DST), Government of 
+					India has recognized the research contributions of the school by funding it under FIST and PURSE programmes.
+					
+					<br><br><br>
+					The school currently executes several research projects (funded by MIT, UGC, ISRO, DRDO, DLRL, MHA, DST, 
+					INCOIS etc.)on Content-Based Image Retrieval, Speech and Natural Language Processing, Grid Computing, 
+					Cryptography, Neural Networks, Formal Methods in Software Engineering,Business Process Re-engineering,
+					Forensic Document Analysis, System Security and Grid Middleware etc. SCIS maintains active contact with
+					both industry and research labs and participates in developing state-of-art computing systems.
+					<br><br><br>
+					The school has initiated academic collaboration at an international level with United Nations 
+					University/International Institute of Software Technology, Macau, University of Trento, Italy 
+					and Mahasarakham University, Thailand. The school has MoUs for collaborative work with NISG 
+					(National Institute for Smart Government), IBM (ISTL), Sierra Atlantic and Altair Engineering
+					to promote research and teaching programmes. The School offers elective courses in collaboration 
+					with Hitachi Consulting on Service-Oriented Architecture and with IBM ISL on Big Data and Virtualization.
+					
+					</p>																																																									
+				</div>
+				
+					
+				<div id="footer">
+					Copyright © 2015 SCIS, University of Hyderabad
+					<br><centre>Developed By:Anurag Jayasawal</centre>
+				</div>
+			</div>
+		</body>
+	</html>

@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+	<html lang="en-US">
+		<head>
+			<style>
+				#main{
+					background-image: url("uohd.jpg");
+					padding:80px;
+					background-repeat: no-repeat;
+					background-size:100% 100%;
+					color:black;										
+				}
+				#header {
+							background-color:black;
+							color:white;
+							text-align:center;
+							padding:5px;
+						}
+				#nav  {
+						line-height:30px;
+						background-color:#eeeeee;
+						color:green;
+						height:1600px;
+						width:300px;
+						float:right;
+						padding:5px;	      
+					 }
+				#section {
+					background-color:white;
+					color:black;
+					width:1000px;
+					float:left;
+					padding:10px;	 	 
+				}
+				#footer {
+	   			 		background-color:black;
+						color:white;
+						clear:both;
+	   					 text-align:center;
+	   					padding:5px;	 	 
+						}
+				iframe {
+						background-color:green;
+						width:auto;
+						height:auto;
+					} 
+				ul{
+					list-style-type: none;
+					margin: 0;
+					padding: 0;
+					overflow: hidden;
+					}
+				li{
+					
+					}
+				a:link, a:visited.link{
+						display: block;
+						width: 170px;
+						font-weight: bold;
+						color: #FFFFFF;
+						background-color: #98bf21;
+						text-align:center;
+						padding: 10px;
+						text-decoration: none;
+						text-transform: uppercase;
+					}
+					a:hover, a:active {
+						background-color: #7A991A;
+					}
+				h1{
+					text-align:center;
+					background-color: #000000;
+				}
+				ul ul{
+					display:none;
+					position:absolute;
+				}
+				ul li:hover ul{
+					display:block;
+				}
+				ul ul li{
+					display:block;
+				}
+					
+				</style>
+		
+		<body style="background-color:#eeeeee;">
+			
+			<div id="main">
+				<br><br><br><br><br><br><br>
+				<h2 style="text-align:center; font-size:250%; color:#7B68EE">School 
+				of Computer	and Information Science</h2>
+			</div>
+			<div>
+				<ul >
+						<li style="float: left"><a href="Hcu.html~">Home</a></li>					
+						<li style="float: left"><a href="#">Academics</a>
+							<ul>
+								<li><a class="two" href="Admissions.html">Admission</a></li>
+								<li><a class="two" href="Programmes.html">Programmes</a></li>
+								<li><a class="two" href="Courses.html">Courses</a></li>				
+							</ul>
+						</li>
+						<li style="float: left"><a href="#">Research</a>
+							<ul>
+								<li><a class="two" href="RA.html">Research Area</a></li>
+								<li><a class="two" href="FP.html">Funded Projects</a></li>
+								<li><a class="two" href="Pub.html">Publications</a></li>				
+								</ul>
+						</li>
+						<li style="float: left"><a href="#">People</a>
+							<ul>
+								<li><a class="two" href="Faculty.html">Faculty</a></li>
+								<li><a class="two" href="Visitors.html">Visitors</a></li>
+								<li><a class="two" href="Students.html">Students</a></li>
+								<li><a class="two" href="Staffs.html">Staff</a></li>
+								<li><a class="two" href="Alumina.html">Alumina</a></li>
+							</ul>
+						</li>
+						<li style="float: left"><a href="#">Events</a>
+							<ul>
+								<li><a class="two" href="LN.html">Latest News</a></li>
+								<li><a class="two" href="Event.html">Events</a></li>				
+							</ul
+						</li>
+						<li style="float: left"><a href="Placements.html">Placements</a></li>
+						<li style="float: left"><a href="Contact Us.html">Contact Us</a></li>
+						
+						
+						
+				</ul>
+				
+				<div id="nav">
+					<h1 style="text-allign:center"> Members Areas
+					<form action="#">			
+						&nbsp;<input type="text" value="Username....">						
+						&nbsp;<input type="text" value="Password....">
+						<br>
+						<input type="submit" value="Login">
+					</form><h1>
+					<h1><small>News&Events</small></h1>
+						<li>
+                  		  <font size="4px" color="#990033"><strong>  News 21 Jul 2015 </strong></font>                          			   
+                 			<h4><b>2nd Admission Counseling – M.Tech. (CS/AI/IT) and 5 yr Int M.Tech. (CS)</b></h4> 
+                       		
+                      		 <b> Candidates should report in person 
+						(Proxy will not be permitted)  for admission at 02.00 p.m. on 28th July, 2015</b> 
+                       		
+                     
+                         <!--News Content End Here -->
+                     	 </li> 
+                        <li>
+                  		  <font size="4px" color="#990033"><strong>  News 02 Jul 2015 </strong></font><br> 
+                   			
+                   		 <!--News Content Start Here -->
+                      
+                  			   
+                 			<h4>Semester Registration for Monsoon Semester , July - December 2015  </h4>
+                       		
+                      		 <b> Last Date for Semester Registration : 23 Jul 2015<br>
+                             Last Date for Semester Registration with Fine Rs. 500 : 04 Aug 2015 </b> 
+                       		
+                     
+                         <!--News Content End Here -->
+                     	 </li> 
+                         <li>
+                  		  <font size="4px" color="#990033"><strong>  News 01 Jul 2015 </strong></font><br> 
+                   			
+                   		 <!--News Content Start Here -->
+                                     			   
+                 			 <h4></b>Admission counsellling for M.Tech(CS/ AI/IT)</b></h4> 
+                       		
+                      		 <b>Candidates should report in person 
+							(Proxy will not be permitted)  for admission at 02.00 p.m. on 6th July, 2015 </b> 
+                       		
+                     
+                         <!--News Content End Here -->
+                     	 </li> 
+                           	 
+                         <li>
+                  		  <font size="4px" color="#990033"><strong>  News 01 Jul 2015 </strong></font><br> 
+                   			
+                   		 <!--News Content Start Here -->
+                                        			                  			 
+                 			 <h4></b>Admissions for 5-Year Integrated M.Tech(CS)</b></h4> 
+                       		
+                      		 <b>Candidates should report in person 
+						(Proxy will not be permitted)  for admission at 02.00 p.m. on 6th July, 2015 </b> 
+                       		
+                     
+                         <!--News Content End Here -->
+                     	 </li>
+                         <li>
+                         	  <font size="4px" color="#990033"><strong>  News 05 Jun 2015 </strong></font><br> 
+                   			
+                   		 <!--News Content Start Here -->
+                      
+                 			 <h4><b>Admssions for Ph.D(CS)</b></h4>
+                       		
+                      		 <b>Candidates should report in person 
+						(Proxy will not be permitted)  for admission at 09.00 a.m. on 3rd July, 2015 </b>                       		                    
+                         <!--News Content End Here -->
+                     	 </li>
+                             <li>
+                         	  <font size="4px" color="#990033"><strong>  News 18 May 2015 </strong></font><br> 
+                   			
+                   		 <!--News Content Start Here -->
+                      
+                  			   
+                 			 <h4><b>Admissions for MCA</b></h4>                    		
+                      		 <p><b>Candidates should report in person 
+						(Proxy will not be permitted)  for admission at 09.00 a.m. on 1st July, 2015 </b><p>                  
+                         <!--News Content End Here -->
+                     	 </li>
+                   <!--      <li>
+                  		  <font size="4px" color="#990033"><strong>  News 01 Jan 2015 </strong></font><br> 
+                   			
+                   		 <!--News Content Start Here 
+                      
+                  			   
+                 			<h4> Elective Registration for forthcoming semsester </h4>
+                       		
+                      		 <b> Elective registration for forthcoming semester will be held on : 03 Jan, 2015
+							Last Date for Sliding : 09 Jan, 2015 </b>                       		
+                     
+                         <!--News Content End Here 
+                     	 </li>-->                                               
+                         <li>
+                  		   <h2><font size="5px" color="#990033" ><b>For more Information </b></font> <h2>    
+                             
+                          </li> 
+                               
+
+				</div>
+				
+				<div id="section">
+					<img src="scis.jpg" alt="SCIS"  style="width:1000px;height:528px;"/>
+					<div id="header">
+						About Us
+					</div>
+					<p style="text-color=black">
+						The School of Computer and Information Sciences (SCIS) was established as an independent School
+					 on Jan 22, 2013. It was initially functioning as a component of School of Mathematics and Computer
+					and Information Sciences and later was established as a distinct department, Department of Computer
+					and Information Sciences, on 23rd March, 1993.<br><br><br>
+					SCIS offers programmes for post-graduate study and research in all major areas of Computing,Informa<wbr>tion
+					Science and Artificial Intelligence. The school is unique in offering M.Tech. Programmes in Artific<wbr>ial
+					Intelligence (since 1987), and in Information Technology with specialization in Banking Technology and 
+					Information Security (since 2001). It has approximately 450 students in the various programmes offered
+					by the school.<br><br><br>
+					SCIS has been recognized by several funding agencies. Recently, University Grants Commission (UGC) has 
+					sanctioned a Special Assistance Program (SAP), at the level of Departmental Research support (DRS) PhaseI
+					,to enhance teaching and research programmes. The Department of Science and Technology (DST), Government of 
+					India has recognized the research contributions of the school by funding it under FIST and PURSE programmes.
+					
+					<br><br><br>
+					The school currently executes several research projects (funded by MIT, UGC, ISRO, DRDO, DLRL, MHA, DST, 
+					INCOIS etc.)on Content-Based Image Retrieval, Speech and Natural Language Processing, Grid Computing, 
+					Cryptography, Neural Networks, Formal Methods in Software Engineering,Business Process Re-engineering,
+					Forensic Document Analysis, System Security and Grid Middleware etc. SCIS maintains active contact with
+					both industry and research labs and participates in developing state-of-art computing systems.
+					<br><br><br>
+					The school has initiated academic collaboration at an international level with United Nations 
+					University/International Institute of Software Technology, Macau, University of Trento, Italy 
+					and Mahasarakham University, Thailand. The school has MoUs for collaborative work with NISG 
+					(National Institute for Smart Government), IBM (ISTL), Sierra Atlantic and Altair Engineering
+					to promote research and teaching programmes. The School offers elective courses in collaboration 
+					with Hitachi Consulting on Service-Oriented Architecture and with IBM ISL on Big Data and Virtualization.
+					
+					</p>																																																									
+				</div>
+				
+					
+				<div id="footer">
+					Copyright © 2015 SCIS, University of Hyderabad
+					<br><centre>Developed By:Anurag Jayasawal</centre>
+				</div>
+			</div>
+		</body>
+	</html>

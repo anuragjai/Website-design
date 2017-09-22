@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<style>
+			td {
+				color:blue;
+			}
+			</style>
+		</head>
+		<body>
+			<table style="width:100%; color:black">
+				<tr>
+					<td><a href="Home.html">Home</a></td>
+					<td><a href="Research.htm">Research</a></td>
+					<td><a href="People.htm">People</a></td>
+					<td><a href="Events.html">Events</a></td>
+					<td><a href="Contact Us.html">Contact Us</a></td>
+				</tr>
+			</table>
+		<body>
+		
+	<html>

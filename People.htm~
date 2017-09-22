@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+	<html>
+		
+		<body style="background-color:black;">
+			<ul>
+				<li>Faculty</li>
+				<li>Visitors</li>
+				<li>Students</li>
+				<li>Staff</li>
+				<li>Alumina</li>
+			</ul>
+		<body>
+		
+	<html>
